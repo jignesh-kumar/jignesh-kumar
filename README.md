@@ -1,17 +1,14 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stargazers-shield]][stargazers-url]
+[![Pull Requests][pull-requests-shield]][pull-requests-url]
+[![Notifications][notifications-shield]][notifications-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[contributors-shield]: https://img.shields.io/github/contributors/jignesh-kumar/jignesh-kumar.svg?style=for-the-badge
-[contributors-url]: https://github.com/jignesh-kumar/jignesh-kumar/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jignesh-kumar/jignesh-kumar.svg?style=for-the-badge
-[forks-url]: https://github.com/jignesh-kumar/jignesh-kumar/network/members
-[stargazers-shield]: https://img.shields.io/github/stars/jignesh-kumar/jignesh-kumar.svg?style=for-the-badge
-[stargazers-url]: https://github.com/jignesh-kumar/jignesh-kumar/stargazers
+[pull-requests-shield]: https://img.shields.io/github/issues-pr/jignesh-kumar/LearningHub.svg?style=for-the-badge
+[pull-requests-url]: https://github.com/pulls
+[notifications-shield]: https://img.shields.io/badge/-Notifications-black.svg?style=for-the-badge&logo=notifications&colorB=555
+[notifications-url]: https://github.com/notifications
 [issues-shield]: https://img.shields.io/github/issues/jignesh-kumar/jignesh-kumar.svg?style=for-the-badge
-[issues-url]: https://github.com/jignesh-kumar/jignesh-kumar/issues
+[issues-url]: https://github.com/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jigneshkumar-vadaviya/
 
